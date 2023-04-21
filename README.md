@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banerjeepragyan&theme=darkhub&title=MultiLanguage,Commits,Repositories" alt="banerjeepragyan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pragyan_b_" target="blank"><img src="https://img.shields.io/twitter/follow/pragyan_b_?logo=twitter&style=for-the-badge" alt="pragyan_b_" /></a> </p>
+[![GitHub](https://img.shields.io/badge/GitHub-%40vishishtpriyadarshi-239a3b.svg)](https://github.com/vishishtpriyadarshi)
+[![Linkedin](https://img.shields.io/badge/-vishishtpriyadarshi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishisht-priyadarshi-34068b179/)
 
 - 📫 How to reach me **banerjeepragyan@gmail.com** 
 - ⚡ Find more about me at **https://banerjeepragyan.github.io/**
