@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Pragyan Banerjee</h1>
-<h3 align="center">I'm a 3rd year student at IIT Guwahati</h3>
+<h3 align="center">I'm a 4th year student at IIT Guwahati</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banerjeepragyan&label=Profile%20views&color=0e75b6&style=flat" alt="banerjeepragyan" /> </p>
 
