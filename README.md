@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banerjeepragyan&label=Profile%20views&color=0e75b6&style=flat" alt="banerjeepragyan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banerjeepragyan&theme=darkhub&title=MultiLanguage,Commits,Repositories" alt="banerjeepragyan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banerjeepragyan&theme=darkhub&title=MultiLanguage,Commits,Repositories,Experience" alt="banerjeepragyan" /></a> </p>
 
 
 - 📫 How to reach me **banerjeepragyan@gmail.com** 
